@@ -3,7 +3,7 @@
 My custom build of [Iosevka](https://github.com/be5invis/Iosevka)
 licensed under the SIL Open Font License, Version 1.1.
 
-- Current target: [7b39833e](https://github.com/be5invis/Iosevka/commit/7b39833e2774d3234b92501544016617ad158588)
+- Current target: [8c632186](https://github.com/be5invis/Iosevka/commit/8c6321868a6cf325db6fbb33492a0ec0e869c8bb)
 
 The font is *heavily* inspired by
 [Protesilaos Stavrou](https://protesilaos.com/)'s [Aporetic](https://github.com/protesilaos/aporetic) font.
