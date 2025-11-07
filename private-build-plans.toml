@@ -10,7 +10,6 @@ noLigation = true
 inherits = "ss15"
 
 [buildPlans.hopf-mono.variants.design]
-apl-form = "enable"
 capital-a = "curly-serifless"
 capital-d = "more-rounded-bilateral-serifed"
 capital-f = "serifless"
