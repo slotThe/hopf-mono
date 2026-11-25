@@ -1,5 +1,9 @@
 # Hopf Mono
 
+> [!IMPORTANT]
+>
+> [Moved to Codeberg](https://codeberg.org/slotThe/hopf-mono)
+
 My custom build of [Iosevka](https://github.com/be5invis/Iosevka)
 licensed under the SIL Open Font License, Version 1.1.
 
